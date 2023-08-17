@@ -1,0 +1,93 @@
+.logo-animated {
+  animation-duration: 1s;
+  animation-fill-mode: both;
+}
+
+.logo-animated-delay-half-seconds {
+  animation-delay: 0.5s;
+}
+
+.bounce-in {
+  animation-name: logo-bounce-in;
+}
+
+@keyframes logo-bounce-in {
+  from,
+  20%,
+  40%,
+  60%,
+  80%,
+  to {
+    animation-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);
+  }
+  0% {
+    opacity: 0;
+    transform: scale3d(0.3, 0.3, 0.3);
+  }
+  20% {
+    opacity: 1;
+    transform: scale3d(1.1, 1.1, 1.1);
+  }
+  40% {
+    transform: scale3d(0.9, 0.9, 0.9);
+  }
+  60% {
+    transform: scale3d(1.03, 1.03, 1.03);
+  }
+  80% {
+    transform: scale3d(0.97, 0.97, 0.97);
+  }
+  to {
+    opacity: 1;
+    transform: scale3d(1, 1, 1);
+  }
+}
+
+@keyframes axisLineMove {
+  0% {
+    stroke-dasharray: 0, 500;
+  }
+  100% {
+    stroke-dasharray: 500, 500;
+  }
+}
+
+@keyframes limbLineMove {
+  0% {
+    stroke-dasharray: 0, 200;
+    stroke: transparent;
+  }
+  50% {
+    stroke-dasharray: 0, 200;
+  }
+  100% {
+    stroke-dasharray: 200, 200;
+  }
+}
+
+@keyframes circleMove {
+  0% {
+    fill: transparent;
+  }
+  50% {
+    fill: transparent;
+  }
+}
+@media (prefers-color-scheme: light) {
+  .uuid-7bf6b50f-26f4-488a-899d-e28dc18364c6 {
+      fill: #fdb924;
+  }
+
+  .uuid-5017a909-b0a5-49da-a062-a3f3e89a4423 {
+      fill: #2c1b5d;
+  }
+}
+@media (prefers-color-scheme: dark) {
+  .uuid-7bf6b50f-26f4-488a-899d-e28dc18364c6 {
+      fill: #fdb924;
+  }
+
+  .uuid-5017a909-b0a5-49da-a062-a3f3e89a4423 {
+      fill: #fff;
+  }
+}
