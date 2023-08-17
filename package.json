@@ -1,7 +1,7 @@
 {
   "name": "CenSuite",
-  "version": "5.37.1",
-  "description": "A suite of react components",
+  "version": "1.0",
+  "description": "A suite of enterprise-grade react components",
   "main": "lib/cjs/index.js",
   "module": "lib/esm/index.js",
   "typings": "lib/esm/index.d.ts",
@@ -42,14 +42,13 @@
   "keywords": [
     "react",
     "rsuite",
-    "component",
     "react-component"
   ],
-  "author": "HYPERS Team",
+  "author": "Centric Consulting",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:rsuite/rsuite.git"
+    "url": "git@github.com:chrislevinecentric/censuite.git"
   },
   "dependencies": {
     "@babel/runtime": "^7.20.1",
