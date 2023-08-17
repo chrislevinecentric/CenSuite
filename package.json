@@ -1,6 +1,6 @@
 {
-  "name": "CenSuite",
-  "version": "1.0",
+  "name": "cen-suite",
+  "version": "1.0.0",
   "description": "A suite of enterprise-grade react components",
   "main": "lib/cjs/index.js",
   "module": "lib/esm/index.js",
