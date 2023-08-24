@@ -15,7 +15,7 @@ import {
   Tag,
   Progress,
   Loader
-} from 'rsuite';
+} from 'cen-suite';
 import { faker } from '@faker-js/faker/locale/en';
 import DefaultPage from '@/components/Page';
 

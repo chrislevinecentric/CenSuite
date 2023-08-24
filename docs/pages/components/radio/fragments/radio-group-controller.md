@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Radio } from 'rsuite';
+import { Radio } from 'cen-suite';
 
 const App = () => {
   const [value, setValue] = React.useState('A');

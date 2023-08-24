@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Popover, Whisper, Button } from 'rsuite';
+import { Popover, Whisper, Button } from 'cen-suite';
 
 const App = () => (
   <Whisper followCursor speaker={<Popover>This is a Popover that follow cursor</Popover>}>

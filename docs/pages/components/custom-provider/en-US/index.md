@@ -7,7 +7,7 @@ Support personalized configurations such as localization, Right to Left, and the
 ### Localization
 
 ```jsx
-import { CustomProvider } from 'rsuite';
+import { CustomProvider } from 'cen-suite';
 import zhCN from 'rsuite/locales/zh_CN';
 
 return (
@@ -20,7 +20,7 @@ return (
 ### Right to Left
 
 ```jsx
-import { CustomProvider } from 'rsuite';
+import { CustomProvider } from 'cen-suite';
 
 return (
   <CustomProvider rtl>
@@ -32,7 +32,7 @@ return (
 ### Themes
 
 ```jsx
-import { CustomProvider } from 'rsuite';
+import { CustomProvider } from 'cen-suite';
 
 return (
   <CustomProvider theme="dark">

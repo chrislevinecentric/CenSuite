@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Form, Button, Schema, Panel } from 'rsuite';
+import { Form, Button, Schema, Panel } from 'cen-suite';
 
 const nameRule = Schema.Types.StringType().isRequired('This field is required.');
 const emailRule = Schema.Types.StringType().isEmail('Please enter a valid email address.');

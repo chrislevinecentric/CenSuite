@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { FlexboxGrid, Divider } from 'rsuite';
+import { FlexboxGrid, Divider } from 'cen-suite';
 
 const App = () => (
   <div className="show-grid">

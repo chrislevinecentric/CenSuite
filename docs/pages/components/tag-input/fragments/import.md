@@ -1,5 +1,5 @@
 ```js
-import { TagInput } from 'rsuite';
+import { TagInput } from 'cen-suite';
 
 // or
 import TagInput from 'rsuite/TagInput';

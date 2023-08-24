@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Form, Button, RadioGroup, Radio, Schema, Panel, FlexboxGrid } from 'rsuite';
+import { Form, Button, RadioGroup, Radio, Schema, Panel, FlexboxGrid } from 'cen-suite';
 import JSONTree from 'react-json-tree';
 
 const JSONView = ({ formValue, formError }) => (

@@ -8,7 +8,7 @@ import {
   SelectPicker,
   TagPicker,
   InputNumber
-} from 'rsuite';
+} from 'cen-suite';
 import Link from 'next/link';
 import DefaultPage from '@/components/Page';
 

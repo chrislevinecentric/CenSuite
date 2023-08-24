@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Checkbox } from 'rsuite';
+import { Checkbox } from 'cen-suite';
 
 const App = () => (
   <>

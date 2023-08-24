@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Radio, RadioGroup, Form } from 'rsuite';
+import { Radio, RadioGroup, Form } from 'cen-suite';
 
 const App = () => (
   <Form.Group controlId="radioList">

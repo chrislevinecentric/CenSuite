@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { List } from 'rsuite';
+import { List } from 'cen-suite';
 
 const data = ['Roses are red', 'Violets are blue', 'Sugar is sweet', 'And so are you'];
 

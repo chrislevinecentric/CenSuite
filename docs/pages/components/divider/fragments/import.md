@@ -1,5 +1,5 @@
 ```js
-import { Divider } from 'rsuite';
+import { Divider } from 'cen-suite';
 
 // or
 import Divider from 'rsuite/Divider';

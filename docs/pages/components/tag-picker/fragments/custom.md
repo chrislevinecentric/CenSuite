@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { TagPicker, Tag } from 'rsuite';
+import { TagPicker, Tag } from 'cen-suite';
 import UserIcon from '@rsuite/icons/legacy/User';
 import GroupIcon from '@rsuite/icons/legacy/Group';
 

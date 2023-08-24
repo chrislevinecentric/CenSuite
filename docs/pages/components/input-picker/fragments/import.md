@@ -1,5 +1,5 @@
 ```js
-import { InputPicker } from 'rsuite';
+import { InputPicker } from 'cen-suite';
 
 // or
 import InputPicker from 'rsuite/InputPicker';

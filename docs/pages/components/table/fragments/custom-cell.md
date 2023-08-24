@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Table, Popover, Whisper, Checkbox, Dropdown, IconButton, Progress } from 'rsuite';
+import { Table, Popover, Whisper, Checkbox, Dropdown, IconButton, Progress } from 'cen-suite';
 import MoreIcon from '@rsuite/icons/legacy/More';
 import { mockUsers } from './mock';
 

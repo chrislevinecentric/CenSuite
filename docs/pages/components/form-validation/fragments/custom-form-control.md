@@ -18,7 +18,7 @@ import {
   toaster,
   FlexboxGrid,
   Toggle
-} from 'rsuite';
+} from 'cen-suite';
 import JSONTree from 'react-json-tree';
 
 const JSONView = ({ formValue, formError }) => (

@@ -1,5 +1,5 @@
 ```js
-import { CheckTreePicker } from 'rsuite';
+import { CheckTreePicker } from 'cen-suite';
 
 // or
 import CheckTreePicker from 'rsuite/CheckTreePicker';

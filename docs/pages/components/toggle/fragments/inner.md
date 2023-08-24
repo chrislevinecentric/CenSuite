@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Toggle } from 'rsuite';
+import { Toggle } from 'cen-suite';
 import CheckIcon from '@rsuite/icons/Check';
 import CloseIcon from '@rsuite/icons/Close';
 

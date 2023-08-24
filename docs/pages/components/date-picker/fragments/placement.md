@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { DatePicker } from 'rsuite';
+import { DatePicker } from 'cen-suite';
 
 const CustomDatePicker = ({ placement }) => (
   <DatePicker placement={placement} placeholder={placement} />

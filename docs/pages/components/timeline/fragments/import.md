@@ -1,5 +1,5 @@
 ```js
-import { Timeline } from 'rsuite';
+import { Timeline } from 'cen-suite';
 
 // or
 import Timeline from 'rsuite/Timeline';

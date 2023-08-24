@@ -5,7 +5,7 @@ import ResponsiveNav from '@rsuite/responsive-nav';
 <!--start-code-->
 
 ```js
-import { Button } from 'rsuite';
+import { Button } from 'cen-suite';
 import ResponsiveNav from '@rsuite/responsive-nav';
 import MoreIcon from '@rsuite/icons/More';
 

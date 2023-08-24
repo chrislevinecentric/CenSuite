@@ -1,5 +1,5 @@
 import React from 'react';
-import { Form, RadioGroup, Button, Radio } from 'rsuite';
+import { Form, RadioGroup, Button, Radio } from 'cen-suite';
 import DefaultPage from '@/components/Page';
 
 export default function Page() {

@@ -1,5 +1,5 @@
 import React from 'react';
-import { Stack, Panel, Button, Divider, Input, Radio, RadioGroup, Slider } from 'rsuite';
+import { Stack, Panel, Button, Divider, Input, Radio, RadioGroup, Slider } from 'cen-suite';
 import DefaultPage from '@/components/Page';
 
 export default function Page() {

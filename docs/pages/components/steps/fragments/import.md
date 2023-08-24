@@ -1,5 +1,5 @@
 ```js
-import { Steps } from 'rsuite';
+import { Steps } from 'cen-suite';
 
 // or
 import Steps from 'rsuite/Steps';

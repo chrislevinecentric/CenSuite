@@ -1,5 +1,5 @@
 import React from 'react';
-import { Panel, Row, Col, Stack, Button, IconButton } from 'rsuite';
+import { Panel, Row, Col, Stack, Button, IconButton } from 'cen-suite';
 import Page from '@/components/Page';
 
 import GitHubIcon from '@rsuite/icons/legacy/Github';

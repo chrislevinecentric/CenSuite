@@ -3,7 +3,7 @@
 <!--start-code-->
 
 ```js
-import { Cascader, Button } from 'rsuite';
+import { Cascader, Button } from 'cen-suite';
 import { mockTreeData } from './mock';
 
 const data = mockTreeData({

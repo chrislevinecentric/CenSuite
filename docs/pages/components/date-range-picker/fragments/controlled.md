@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { DateRangePicker, Stack } from 'rsuite';
+import { DateRangePicker, Stack } from 'cen-suite';
 
 const App = () => {
   const [value, setValue] = React.useState([

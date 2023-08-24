@@ -10,7 +10,7 @@ return () => {
 <!--start-code-->
 
 ```js
-import { IconButton } from 'rsuite';
+import { IconButton } from 'cen-suite';
 import { Icon } from '@rsuite/icons';
 
 const HeartSvg = React.forwardRef((props, ref) => (

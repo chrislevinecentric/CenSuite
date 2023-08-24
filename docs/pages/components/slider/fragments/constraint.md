@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { RangeSlider } from 'rsuite';
+import { RangeSlider } from 'cen-suite';
 
 const App = () => (
   <>

@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { CheckTree } from 'rsuite';
+import { CheckTree } from 'cen-suite';
 import PageIcon from '@rsuite/icons/Page';
 import { mockTreeData } from './mock';
 

@@ -1,5 +1,5 @@
 import React from 'react';
-import { Nav, Button, Row, Col, Slider } from 'rsuite';
+import { Nav, Button, Row, Col, Slider } from 'cen-suite';
 import DefaultPage from '@/components/Page';
 import ResponsiveNav from '@rsuite/responsive-nav';
 import Link from 'next/link';

@@ -1,5 +1,5 @@
 ```js
-import { Avatar, AvatarGroup } from 'rsuite';
+import { Avatar, AvatarGroup } from 'cen-suite';
 
 // or
 import Avatar from 'rsuite/Avatar';

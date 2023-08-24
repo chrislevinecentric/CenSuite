@@ -1,5 +1,5 @@
 import React from 'react';
-import { AutoComplete, InputGroup, Stack } from 'rsuite';
+import { AutoComplete, InputGroup, Stack } from 'cen-suite';
 import DefaultPage from '@/components/Page';
 import SearchIcon from '@rsuite/icons/Search';
 import MemberIcon from '@rsuite/icons/Member';

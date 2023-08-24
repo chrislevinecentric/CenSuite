@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Tree } from 'rsuite';
+import { Tree } from 'cen-suite';
 import { mockAsyncData } from './mock';
 import FolderFillIcon from '@rsuite/icons/FolderFill';
 import PageIcon from '@rsuite/icons/Page';

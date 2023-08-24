@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { FlexboxGrid, SelectPicker, Toggle, MaskedInput } from 'rsuite';
+import { FlexboxGrid, SelectPicker, Toggle, MaskedInput } from 'cen-suite';
 
 const options = [
   {

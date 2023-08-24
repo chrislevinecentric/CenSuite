@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Tag, TagGroup } from 'rsuite';
+import { Tag, TagGroup } from 'cen-suite';
 
 const App = () => (
   <TagGroup>

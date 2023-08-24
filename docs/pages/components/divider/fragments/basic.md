@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Divider, Placeholder } from 'rsuite';
+import { Divider, Placeholder } from 'cen-suite';
 
 const App = () => (
   <>

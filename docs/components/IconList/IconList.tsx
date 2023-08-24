@@ -1,5 +1,5 @@
 import React, { useCallback, useState, useContext } from 'react';
-import { Input, Modal, Button, FlexboxGrid, InputGroup } from 'rsuite';
+import { Input, Modal, Button, FlexboxGrid, InputGroup } from 'cen-suite';
 import SearchIcon from '@rsuite/icons/Search';
 import Link from '@/components/Link';
 import IconItem from './IconItem';

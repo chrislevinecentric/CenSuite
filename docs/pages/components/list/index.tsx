@@ -1,5 +1,5 @@
 import React from 'react';
-import { List, Tag, Button, FlexboxGrid, Panel } from 'rsuite';
+import { List, Tag, Button, FlexboxGrid, Panel } from 'cen-suite';
 import DefaultPage from '@/components/Page';
 import UserCircleIcon from '@rsuite/icons/legacy/UserCircleO';
 import ImageIcon from '@rsuite/icons/legacy/Image';

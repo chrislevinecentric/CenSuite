@@ -1,5 +1,5 @@
 import React from 'react';
-import { Grid, Row, Col } from 'rsuite';
+import { Grid, Row, Col } from 'cen-suite';
 import DefaultPage from '@/components/Page';
 
 import files from './files';

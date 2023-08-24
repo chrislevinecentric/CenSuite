@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Carousel } from 'rsuite';
+import { Carousel } from 'cen-suite';
 
 const App = () => {
   const [activeIndex, setActiveIndex] = React.useState(2);

@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Drawer, ButtonToolbar, Button, Placeholder } from 'rsuite';
+import { Drawer, ButtonToolbar, Button, Placeholder } from 'cen-suite';
 
 const App = () => {
   const [open, setOpen] = React.useState(false);

@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { InputNumber } from 'rsuite';
+import { InputNumber } from 'cen-suite';
 
 const styles = { marginBottom: 10 };
 const App = () => (

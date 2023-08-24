@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Container, Header, Content, Footer, Sidebar } from 'rsuite';
+import { Container, Header, Content, Footer, Sidebar } from 'cen-suite';
 
 const App = () => (
   <div className="show-container">

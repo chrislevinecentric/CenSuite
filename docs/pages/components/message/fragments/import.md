@@ -1,5 +1,5 @@
 ```js
-import { Message, useToaster } from 'rsuite';
+import { Message, useToaster } from 'cen-suite';
 
 // or
 import Message from 'rsuite/Message';

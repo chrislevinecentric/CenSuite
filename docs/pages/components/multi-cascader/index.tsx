@@ -1,5 +1,5 @@
 import React from 'react';
-import { MultiCascader, Button, Toggle, RadioGroup, Radio } from 'rsuite';
+import { MultiCascader, Button, Toggle, RadioGroup, Radio } from 'cen-suite';
 import DefaultPage from '@/components/Page';
 import PeoplesIcon from '@rsuite/icons/Peoples';
 import AdminIcon from '@rsuite/icons/Admin';

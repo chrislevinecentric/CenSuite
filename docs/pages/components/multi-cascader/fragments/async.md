@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { MultiCascader } from 'rsuite';
+import { MultiCascader } from 'cen-suite';
 import { mockAsyncData } from './mock';
 
 const [getNodes, fetchNodes] = mockAsyncData();

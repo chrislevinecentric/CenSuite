@@ -8,7 +8,7 @@ import {
   Radio,
   Loader,
   Placeholder
-} from 'rsuite';
+} from 'cen-suite';
 import DefaultPage from '@/components/Page';
 import RemindIcon from '@rsuite/icons/legacy/Remind';
 

@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Loader, Placeholder } from 'rsuite';
+import { Loader, Placeholder } from 'cen-suite';
 
 const App = () => (
   <div>

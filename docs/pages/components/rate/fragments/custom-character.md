@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Rate } from 'rsuite';
+import { Rate } from 'cen-suite';
 import FrownIcon from '@rsuite/icons/legacy/FrownO';
 import MehIcon from '@rsuite/icons/legacy/MehO';
 import SmileIcon from '@rsuite/icons/legacy/SmileO';

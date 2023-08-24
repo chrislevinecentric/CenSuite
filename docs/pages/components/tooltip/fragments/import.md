@@ -1,5 +1,5 @@
 ```js
-import { Tooltip, Whisper } from 'rsuite';
+import { Tooltip, Whisper } from 'cen-suite';
 
 // or
 import Tooltip from 'rsuite/Tooltip';

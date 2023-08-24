@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Dropdown } from 'rsuite';
+import { Dropdown } from 'cen-suite';
 
 const App = () => (
   <Dropdown title="GitHub">

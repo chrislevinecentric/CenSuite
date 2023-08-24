@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { CheckTreePicker } from 'rsuite';
+import { CheckTreePicker } from 'cen-suite';
 import SpinnerIcon from '@rsuite/icons/legacy/Spinner';
 import { mockAsyncData } from './mock';
 

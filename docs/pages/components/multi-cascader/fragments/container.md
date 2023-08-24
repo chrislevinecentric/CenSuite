@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { MultiCascader, RadioGroup, Radio } from 'rsuite';
+import { MultiCascader, RadioGroup, Radio } from 'cen-suite';
 import { mockTreeData } from './mock';
 
 const data = mockTreeData({

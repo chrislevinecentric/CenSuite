@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { List, FlexboxGrid } from 'rsuite';
+import { List, FlexboxGrid } from 'cen-suite';
 import ImageIcon from '@rsuite/icons/legacy/Image';
 import FilmIcon from '@rsuite/icons/legacy/Film';
 import UserCircleIcon from '@rsuite/icons/legacy/UserCircleO';

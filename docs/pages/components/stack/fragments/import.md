@@ -1,5 +1,5 @@
 ```js
-import { Stack } from 'rsuite';
+import { Stack } from 'cen-suite';
 
 // or
 import Stack from 'rsuite/Stack';

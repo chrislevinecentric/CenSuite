@@ -1,5 +1,5 @@
 ```js
-import { TreePicker } from 'rsuite';
+import { TreePicker } from 'cen-suite';
 
 // or
 import TreePicker from 'rsuite/TreePicker';

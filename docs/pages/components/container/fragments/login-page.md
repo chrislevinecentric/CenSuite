@@ -12,7 +12,7 @@ import {
   Navbar,
   Panel,
   FlexboxGrid
-} from 'rsuite';
+} from 'cen-suite';
 
 const App = () => (
   <div className="show-fake-browser login-page">

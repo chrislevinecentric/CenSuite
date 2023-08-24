@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Popover } from 'rsuite';
+import { Popover } from 'cen-suite';
 
 const App = () => (
   <div style={{ height: 100, position: 'relative' }}>

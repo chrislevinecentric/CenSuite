@@ -1,5 +1,5 @@
 ```js
-import { Tree } from 'rsuite';
+import { Tree } from 'cen-suite';
 
 // or
 import Tree from 'rsuite/Tree';

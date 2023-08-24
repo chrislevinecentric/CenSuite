@@ -11,7 +11,7 @@ import {
   Input,
   FlexboxGrid,
   IconButton
-} from 'rsuite';
+} from 'cen-suite';
 import PlusIcon from '@rsuite/icons/Plus';
 import MinusIcon from '@rsuite/icons/Minus';
 import JSONTree from 'react-json-tree';

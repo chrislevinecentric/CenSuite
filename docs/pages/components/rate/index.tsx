@@ -1,5 +1,5 @@
 import React from 'react';
-import { Badge, Button, Toggle, Rate } from 'rsuite';
+import { Badge, Button, Toggle, Rate } from 'cen-suite';
 import DefaultPage from '@/components/Page';
 import { Icon } from '@rsuite/icons';
 import HeartIcon from '@rsuite/icons/legacy/Heart';

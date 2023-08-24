@@ -1,5 +1,5 @@
 ```js
-import { Input, InputGroup, MaskedInput } from 'rsuite';
+import { Input, InputGroup, MaskedInput } from 'cen-suite';
 
 // or
 import Input from 'rsuite/Input';

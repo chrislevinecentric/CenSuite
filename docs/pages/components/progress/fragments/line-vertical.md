@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Progress } from 'rsuite';
+import { Progress } from 'cen-suite';
 
 const App = () => (
   <div className="line-vertical-wrapper" style={{ height: 500 }}>

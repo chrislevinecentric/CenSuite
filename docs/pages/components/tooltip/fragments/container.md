@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Tooltip, Whisper } from 'rsuite';
+import { Tooltip, Whisper } from 'cen-suite';
 
 function PreventOverflowContainer({ children, height = 500 }) {
   const container = React.useRef();

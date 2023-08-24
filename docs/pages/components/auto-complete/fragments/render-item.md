@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { AutoComplete } from 'rsuite';
+import { AutoComplete } from 'cen-suite';
 import MemberIcon from '@rsuite/icons/Member';
 
 const data = [

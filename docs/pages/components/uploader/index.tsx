@@ -1,5 +1,5 @@
 import React from 'react';
-import { Uploader, Button, Loader, Message, useToaster } from 'rsuite';
+import { Uploader, Button, Loader, Message, useToaster } from 'cen-suite';
 import DefaultPage from '@/components/Page';
 import AvatarIcon from '@rsuite/icons/legacy/Avatar';
 import CameraRetroIcon from '@rsuite/icons/legacy/CameraRetro';

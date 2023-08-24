@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Panel, Placeholder, Row, Col } from 'rsuite';
+import { Panel, Placeholder, Row, Col } from 'cen-suite';
 
 const Card = props => (
   <Panel {...props} bordered header="Card title">

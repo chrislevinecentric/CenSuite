@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Cascader } from 'rsuite';
+import { Cascader } from 'cen-suite';
 import FolderFillIcon from '@rsuite/icons/FolderFill';
 import PageIcon from '@rsuite/icons/Page';
 import { mockAsyncData } from './mock';

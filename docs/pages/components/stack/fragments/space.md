@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Stack, Slider, Input, Button } from 'rsuite';
+import { Stack, Slider, Input, Button } from 'cen-suite';
 
 const App = () => {
   const [size, setSize] = React.useState(6);

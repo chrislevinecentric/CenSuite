@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Cascader, RadioGroup, Radio } from 'rsuite';
+import { Cascader, RadioGroup, Radio } from 'cen-suite';
 import { mockTreeData } from './mock';
 
 function PreventOverflowContainer({ children, height = 500 }) {

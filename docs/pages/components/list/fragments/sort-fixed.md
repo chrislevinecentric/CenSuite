@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { List } from 'rsuite';
+import { List } from 'cen-suite';
 
 const BrowserList = ['Chrome', 'Edge', 'FireFox', 'Safari'];
 

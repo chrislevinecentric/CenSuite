@@ -1,5 +1,5 @@
 import React from 'react';
-import { Grid, CustomProvider, CustomProviderProps } from 'rsuite';
+import { Grid, CustomProvider, CustomProviderProps } from 'cen-suite';
 import NProgress from 'nprogress';
 import type { AppProps } from 'next/app';
 import { Analytics } from '@vercel/analytics/react';

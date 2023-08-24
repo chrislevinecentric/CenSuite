@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Badge, Button, Toggle } from 'rsuite';
+import { Badge, Button, Toggle } from 'cen-suite';
 
 const App = () => {
   const [content, setContent] = React.useState(true);

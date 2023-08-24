@@ -1,5 +1,5 @@
 ```js
-import { Popover, Whisper } from 'rsuite';
+import { Popover, Whisper } from 'cen-suite';
 
 // or
 import Popover from 'rsuite/Popover';

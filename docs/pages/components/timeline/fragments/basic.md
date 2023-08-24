@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Timeline } from 'rsuite';
+import { Timeline } from 'cen-suite';
 
 const App = () => (
   <Timeline>

@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Animation, Button } from 'rsuite';
+import { Animation, Button } from 'cen-suite';
 
 const Panel = React.forwardRef((props, ref) => (
   <div

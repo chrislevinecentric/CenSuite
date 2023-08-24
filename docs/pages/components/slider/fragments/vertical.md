@@ -1,7 +1,7 @@
 <!-- start-code -->
 
 ```js
-import { Slider, RangeSlider, Row, Col } from 'rsuite';
+import { Slider, RangeSlider, Row, Col } from 'cen-suite';
 
 const App = () => {
   const style = { height: 400 };

@@ -1,6 +1,6 @@
 import React from 'react';
 import DefaultPage from '@/components/Page';
-import { Tree, Button, InputNumber, Panel, SelectPicker, Stack } from 'rsuite';
+import { Tree, Button, InputNumber, Panel, SelectPicker, Stack } from 'cen-suite';
 import FolderFillIcon from '@rsuite/icons/FolderFill';
 import PageIcon from '@rsuite/icons/Page';
 import {

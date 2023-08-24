@@ -1,5 +1,5 @@
 import React from 'react';
-import { DatePicker, Button, InputGroup, Input, Stack } from 'rsuite';
+import { DatePicker, Button, InputGroup, Input, Stack } from 'cen-suite';
 import addDays from 'date-fns/addDays';
 import subDays from 'date-fns/subDays';
 import isBefore from 'date-fns/isBefore';

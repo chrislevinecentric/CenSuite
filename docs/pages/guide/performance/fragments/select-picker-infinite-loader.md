@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { CheckPicker, Loader } from 'rsuite';
+import { CheckPicker, Loader } from 'cen-suite';
 
 const fetchData = (start, length) => {
   return Array.from({ length }).map((_, index) => {

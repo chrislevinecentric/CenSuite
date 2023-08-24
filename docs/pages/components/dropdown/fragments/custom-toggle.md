@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Dropdown, IconButton } from 'rsuite';
+import { Dropdown, IconButton } from 'cen-suite';
 import PlusIcon from '@rsuite/icons/Plus';
 import PageIcon from '@rsuite/icons/Page';
 import FolderFillIcon from '@rsuite/icons/FolderFill';

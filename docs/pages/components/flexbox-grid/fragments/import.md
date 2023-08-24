@@ -1,5 +1,5 @@
 ```js
-import { FlexboxGrid } from 'rsuite';
+import { FlexboxGrid } from 'cen-suite';
 
 // or
 import FlexboxGrid from 'rsuite/FlexboxGrid';

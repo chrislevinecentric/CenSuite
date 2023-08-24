@@ -1,5 +1,5 @@
 import React from 'react';
-import { Badge, Button, Toggle } from 'rsuite';
+import { Badge, Button, Toggle } from 'cen-suite';
 import DefaultPage from '@/components/Page';
 
 export default function Page() {

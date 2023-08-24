@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react';
-import { ButtonToolbar } from 'rsuite';
+import { ButtonToolbar } from 'cen-suite';
 import canUseDOM from 'dom-lib/canUseDOM';
 import { MoreActions } from './MoreActions';
 

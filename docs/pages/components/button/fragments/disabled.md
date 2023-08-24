@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Button, ButtonToolbar } from 'rsuite';
+import { Button, ButtonToolbar } from 'cen-suite';
 
 const App = () => (
   <ButtonToolbar>

@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Nav } from 'rsuite';
+import { Nav } from 'cen-suite';
 
 import FacebookSquareIcon from '@rsuite/icons/legacy/FacebookSquare';
 import GithubAltIcon from '@rsuite/icons/legacy/GithubAlt';

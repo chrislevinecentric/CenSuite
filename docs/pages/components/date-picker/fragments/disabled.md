@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { DatePicker } from 'rsuite';
+import { DatePicker } from 'cen-suite';
 import isBefore from 'date-fns/isBefore';
 
 const Label = props => {

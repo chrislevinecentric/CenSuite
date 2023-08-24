@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Steps } from 'rsuite';
+import { Steps } from 'cen-suite';
 
 const styles = {
   width: '200px',

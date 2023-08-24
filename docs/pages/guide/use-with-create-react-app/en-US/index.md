@@ -33,7 +33,7 @@ And then edit `./src/App.js`
   import './App.css';
 
 + import 'rsuite/dist/rsuite.min.css';
-+ import { Button } from 'rsuite';
++ import { Button } from 'cen-suite';
 
   class App extends Component {
     render() {
@@ -89,7 +89,7 @@ yarn add react-app-rewired customize-cra less less-loader@7
 ```diff
 - import 'rsuite/dist/rsuite.min.css';
 + import 'rsuite/styles/index.less';
-  import { Button } from 'rsuite';
+  import { Button } from 'cen-suite';
 ```
 
 4.  Create a new `config-overrides.js` in the root directory. The contents are as follows:

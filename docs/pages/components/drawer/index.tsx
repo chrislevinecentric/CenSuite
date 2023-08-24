@@ -1,5 +1,5 @@
 import React from 'react';
-import { ButtonToolbar, Button, IconButton, Drawer, RadioGroup, Radio, Placeholder } from 'rsuite';
+import { ButtonToolbar, Button, IconButton, Drawer, RadioGroup, Radio, Placeholder } from 'cen-suite';
 import DefaultPage from '@/components/Page';
 import AngleRightIcon from '@rsuite/icons/legacy/AngleRight';
 import AngleLeftIcon from '@rsuite/icons/legacy/AngleLeft';

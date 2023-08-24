@@ -1,5 +1,5 @@
 ```js
-import { TagPicker } from 'rsuite';
+import { TagPicker } from 'cen-suite';
 
 // or
 import TagPicker from 'rsuite/TagPicker';

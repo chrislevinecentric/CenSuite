@@ -16,7 +16,7 @@ import {
   Form,
   ButtonToolbar,
   Navbar
-} from 'rsuite';
+} from 'cen-suite';
 
 import DefaultPage from '@/components/Page';
 

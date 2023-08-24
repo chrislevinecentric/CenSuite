@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { TagGroup, Tag, Input, IconButton } from 'rsuite';
+import { TagGroup, Tag, Input, IconButton } from 'cen-suite';
 import PlusIcon from '@rsuite/icons/Plus';
 
 const App = () => {

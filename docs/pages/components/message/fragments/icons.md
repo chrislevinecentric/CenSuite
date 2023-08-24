@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Message } from 'rsuite';
+import { Message } from 'cen-suite';
 
 const App = () => (
   <>

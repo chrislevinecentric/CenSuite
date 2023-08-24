@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { MultiCascader, Button } from 'rsuite';
+import { MultiCascader, Button } from 'cen-suite';
 import { mockTreeData } from './mock';
 
 const data = mockTreeData({

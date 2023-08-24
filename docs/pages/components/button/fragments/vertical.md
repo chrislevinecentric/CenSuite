@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Button, ButtonToolbar, ButtonGroup } from 'rsuite';
+import { Button, ButtonToolbar, ButtonGroup } from 'cen-suite';
 
 const CustomButtonGroup = ({ appearance }) => (
   <ButtonGroup vertical>

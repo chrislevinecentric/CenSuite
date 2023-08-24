@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Form, InputGroup, Input, Toggle, SelectPicker } from 'rsuite';
+import { Form, InputGroup, Input, Toggle, SelectPicker } from 'cen-suite';
 import AvatarIcon from '@rsuite/icons/legacy/Avatar';
 
 const errorPlacementData = [

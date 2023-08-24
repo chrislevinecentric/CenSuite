@@ -1,5 +1,5 @@
 ```js
-import { Nav } from 'rsuite';
+import { Nav } from 'cen-suite';
 
 // or
 import Nav from 'rsuite/Nav';

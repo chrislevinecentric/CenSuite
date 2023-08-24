@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Toggle, Checkbox, RadioGroup, Form } from 'rsuite';
+import { Toggle, Checkbox, RadioGroup, Form } from 'cen-suite';
 
 function AsyncToggle(props) {
   const [checked, setChecked] = useState(false);

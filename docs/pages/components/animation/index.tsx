@@ -1,5 +1,5 @@
 import React from 'react';
-import { Animation, Button, ButtonToolbar } from 'rsuite';
+import { Animation, Button, ButtonToolbar } from 'cen-suite';
 import DefaultPage from '@/components/Page';
 
 import files from './files';

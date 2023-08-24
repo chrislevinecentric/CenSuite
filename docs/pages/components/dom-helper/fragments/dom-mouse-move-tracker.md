@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Button, DOMHelper } from 'rsuite';
+import { Button, DOMHelper } from 'cen-suite';
 
 const { DOMMouseMoveTracker } = DOMHelper;
 

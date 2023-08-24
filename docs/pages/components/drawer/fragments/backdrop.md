@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Drawer, RadioGroup, Radio, ButtonToolbar, Button, Placeholder } from 'rsuite';
+import { Drawer, RadioGroup, Radio, ButtonToolbar, Button, Placeholder } from 'cen-suite';
 
 const styles = {
   radioGroupLabel: {

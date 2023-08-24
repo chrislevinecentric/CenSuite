@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Input, InputGroup, Whisper, Tooltip } from 'rsuite';
+import { Input, InputGroup, Whisper, Tooltip } from 'cen-suite';
 import SearchIcon from '@rsuite/icons/Search';
 import InfoIcon from '@rsuite/icons/legacy/Info';
 import AvatarIcon from '@rsuite/icons/legacy/Avatar';

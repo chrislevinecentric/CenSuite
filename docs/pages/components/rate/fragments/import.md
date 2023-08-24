@@ -1,5 +1,5 @@
 ```js
-import { Rate } from 'rsuite';
+import { Rate } from 'cen-suite';
 
 //or
 import Rate from 'rsuite/Rate';

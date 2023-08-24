@@ -10,7 +10,7 @@ import {
   Placeholder,
   Stack,
   ButtonGroup
-} from 'rsuite';
+} from 'cen-suite';
 import DefaultPage from '@/components/Page';
 
 export default function Page() {

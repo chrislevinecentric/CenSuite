@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Form, Button, ButtonToolbar, Schema, Panel } from 'rsuite';
+import { Form, Button, ButtonToolbar, Schema, Panel } from 'cen-suite';
 
 const { StringType } = Schema.Types;
 const model = Schema.Model({

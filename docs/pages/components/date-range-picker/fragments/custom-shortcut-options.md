@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { DateRangePicker, Stack } from 'rsuite';
+import { DateRangePicker, Stack } from 'cen-suite';
 import subDays from 'date-fns/subDays';
 import startOfWeek from 'date-fns/startOfWeek';
 import endOfWeek from 'date-fns/endOfWeek';

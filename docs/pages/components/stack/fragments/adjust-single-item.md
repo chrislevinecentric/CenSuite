@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Stack, Button } from 'rsuite';
+import { Stack, Button } from 'cen-suite';
 
 const App = () => {
   return (

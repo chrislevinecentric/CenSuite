@@ -1,5 +1,5 @@
 import React from 'react';
-import { Navbar, Nav, Button } from 'rsuite';
+import { Navbar, Nav, Button } from 'cen-suite';
 import DefaultPage from '@/components/Page';
 import HomeIcon from '@rsuite/icons/legacy/Home';
 import CogIcon from '@rsuite/icons/legacy/Cog';

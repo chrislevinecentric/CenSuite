@@ -1,5 +1,5 @@
 import React from 'react';
-import { Panel, Row, Col } from 'rsuite';
+import { Panel, Row, Col } from 'cen-suite';
 import Page from '@/components/Page';
 import { ResourcesDesign, ResourcesFigma, ResourcesSketch } from '@/components/SvgIcons';
 import AppContext from '@/components/AppContext';

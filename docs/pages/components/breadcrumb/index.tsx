@@ -1,5 +1,5 @@
 import React from 'react';
-import { Breadcrumb } from 'rsuite';
+import { Breadcrumb } from 'cen-suite';
 import Link from 'next/link';
 import DefaultPage from '@/components/Page';
 import AngleRightIcon from '@rsuite/icons/legacy/AngleRight';

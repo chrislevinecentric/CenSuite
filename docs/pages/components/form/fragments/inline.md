@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Form, Button } from 'rsuite';
+import { Form, Button } from 'cen-suite';
 
 const App = () => (
   <>

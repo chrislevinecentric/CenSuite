@@ -68,7 +68,7 @@ disabledDate(
 To make it easier to set the date you want to disable, `DateRangePicker` provides some methods for easy calling, examples:
 
 ```ts
-import { DateRangePicker } from 'rsuite';
+import { DateRangePicker } from 'cen-suite';
 
 const { combine, allowedMaxDays, beforeToday } = DateRangePicker;
 

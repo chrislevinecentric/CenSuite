@@ -9,7 +9,7 @@ import {
   ButtonToolbar,
   SelectPicker,
   Button
-} from 'rsuite';
+} from 'cen-suite';
 
 const App = () => {
   const [type, setType] = React.useState('info');

@@ -26,7 +26,7 @@ import {
   Message,
   Rate,
   Uploader
-} from 'rsuite';
+} from 'cen-suite';
 
 import DefaultPage from '@/components/Page';
 import AvatarIcon from '@rsuite/icons/legacy/Avatar';

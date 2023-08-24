@@ -1,5 +1,5 @@
 import React from 'react';
-import { Calendar, SelectPicker, DatePicker, CustomProvider, Pagination } from 'rsuite';
+import { Calendar, SelectPicker, DatePicker, CustomProvider, Pagination } from 'cen-suite';
 import DefaultPage from '@/components/Page';
 import * as locales from 'rsuite/locales';
 

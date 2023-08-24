@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Nav } from 'rsuite';
+import { Nav } from 'cen-suite';
 import HomeIcon from '@rsuite/icons/legacy/Home';
 
 const Navbar = ({ active, onSelect, ...props }) => {

@@ -1,5 +1,5 @@
 import React from 'react';
-import { Slider, RangeSlider, Row, Col, Input, InputNumber, InputGroup } from 'rsuite';
+import { Slider, RangeSlider, Row, Col, Input, InputNumber, InputGroup } from 'cen-suite';
 import DefaultPage from '@/components/Page';
 
 import files from './files';

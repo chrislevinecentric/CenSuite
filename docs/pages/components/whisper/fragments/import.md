@@ -1,5 +1,5 @@
 ```js
-import { Whisper } from 'rsuite';
+import { Whisper } from 'cen-suite';
 
 // or
 import Whisper from 'rsuite/Whisper';

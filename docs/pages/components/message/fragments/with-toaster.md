@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Message, useToaster, ButtonToolbar, SelectPicker, Button } from 'rsuite';
+import { Message, useToaster, ButtonToolbar, SelectPicker, Button } from 'cen-suite';
 
 const App = () => {
   const [type, setType] = React.useState('info');

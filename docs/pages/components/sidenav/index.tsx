@@ -1,5 +1,5 @@
 import React from 'react';
-import { Sidenav, Nav, Button, Toggle } from 'rsuite';
+import { Sidenav, Nav, Button, Toggle } from 'cen-suite';
 import DefaultPage from '@/components/Page';
 import DashboardIcon from '@rsuite/icons/legacy/Dashboard';
 import GroupIcon from '@rsuite/icons/legacy/Group';

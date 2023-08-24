@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Button, ButtonToolbar } from 'rsuite';
+import { Button, ButtonToolbar } from 'cen-suite';
 import FacebookOfficialIcon from '@rsuite/icons/legacy/FacebookOfficial';
 import GooglePlusCircleIcon from '@rsuite/icons/legacy/GooglePlusCircle';
 import TwitterIcon from '@rsuite/icons/legacy/Twitter';

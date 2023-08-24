@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react';
 
 import { useRouter } from 'next/router';
-import { Divider, Footer } from 'rsuite';
+import { Divider, Footer } from 'cen-suite';
 import { MarkdownRenderer } from 'react-code-view';
 import AppContext from './AppContext';
 import PageContainer from './PageContainer';

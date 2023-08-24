@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { TreePicker } from 'rsuite';
+import { TreePicker } from 'cen-suite';
 import { mockTreeData } from './mock';
 
 const data = mockTreeData({

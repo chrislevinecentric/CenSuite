@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { ButtonToolbar, Button, DOMHelper } from 'rsuite';
+import { ButtonToolbar, Button, DOMHelper } from 'cen-suite';
 
 const { scrollTop } = DOMHelper;
 

@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { AvatarGroup, Avatar } from 'rsuite';
+import { AvatarGroup, Avatar } from 'cen-suite';
 const users = [
   { avatar: 'https://avatars.githubusercontent.com/u/12592949', name: 'superman66' },
   { avatar: 'https://avatars.githubusercontent.com/u/8225666', name: 'SevenOutman' },

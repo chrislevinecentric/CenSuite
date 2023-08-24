@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Modal, Button, ButtonToolbar, Placeholder } from 'rsuite';
+import { Modal, Button, ButtonToolbar, Placeholder } from 'cen-suite';
 
 const App = () => {
   const [open, setOpen] = React.useState(false);

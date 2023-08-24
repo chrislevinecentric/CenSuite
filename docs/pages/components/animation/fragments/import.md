@@ -1,5 +1,5 @@
 ```js
-import { Animation } from 'rsuite';
+import { Animation } from 'cen-suite';
 
 // or
 import Animation from 'rsuite/Animation';

@@ -1,5 +1,5 @@
 ```js
-import { Table } from 'rsuite';
+import { Table } from 'cen-suite';
 
 // or
 import Table from 'rsuite/Table';

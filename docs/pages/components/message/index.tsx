@@ -1,5 +1,5 @@
 import React from 'react';
-import { Message, Button, ButtonToolbar, SelectPicker, useToaster, Placeholder } from 'rsuite';
+import { Message, Button, ButtonToolbar, SelectPicker, useToaster, Placeholder } from 'cen-suite';
 import DefaultPage from '@/components/Page';
 
 export default function Page() {

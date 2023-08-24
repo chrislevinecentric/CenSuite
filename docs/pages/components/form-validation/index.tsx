@@ -24,7 +24,7 @@ import {
   FlexboxGrid,
   IconButton,
   Toggle
-} from 'rsuite';
+} from 'cen-suite';
 
 import PlusIcon from '@rsuite/icons/Plus';
 import MinusIcon from '@rsuite/icons/Minus';

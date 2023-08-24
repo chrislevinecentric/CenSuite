@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { DatePicker, InputGroup } from 'rsuite';
+import { DatePicker, InputGroup } from 'cen-suite';
 
 const App = () => (
   <InputGroup style={{ width: 428 }}>

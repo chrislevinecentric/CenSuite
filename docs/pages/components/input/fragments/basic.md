@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Input } from 'rsuite';
+import { Input } from 'cen-suite';
 
 const App = () => (
   <>

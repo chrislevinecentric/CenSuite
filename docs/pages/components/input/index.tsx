@@ -12,7 +12,7 @@ import {
   ButtonToolbar,
   Toggle,
   FlexboxGrid
-} from 'rsuite';
+} from 'cen-suite';
 import DefaultPage from '@/components/Page';
 
 import SearchIcon from '@rsuite/icons/Search';

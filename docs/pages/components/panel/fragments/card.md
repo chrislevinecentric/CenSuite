@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Panel } from 'rsuite';
+import { Panel } from 'cen-suite';
 
 const App = () => (
   <Panel shaded bordered bodyFill style={{ display: 'inline-block', width: 240 }}>

@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Breadcrumb } from 'rsuite';
+import { Breadcrumb } from 'cen-suite';
 import Link from 'next/link';
 import AngleRightIcon from '@rsuite/icons/legacy/AngleRight';
 

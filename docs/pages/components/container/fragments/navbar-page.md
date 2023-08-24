@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Container, Header, Content, Footer, Navbar, Nav } from 'rsuite';
+import { Container, Header, Content, Footer, Navbar, Nav } from 'cen-suite';
 import HomeIcon from '@rsuite/icons/legacy/Home';
 import CogIcon from '@rsuite/icons/legacy/Cog';
 

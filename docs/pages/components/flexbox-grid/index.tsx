@@ -1,5 +1,5 @@
 import React from 'react';
-import { FlexboxGrid, Button, Divider, Col } from 'rsuite';
+import { FlexboxGrid, Button, Divider, Col } from 'cen-suite';
 import DefaultPage from '@/components/Page';
 
 import files from './files';

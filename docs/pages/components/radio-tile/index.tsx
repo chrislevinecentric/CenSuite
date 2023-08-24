@@ -1,5 +1,5 @@
 import React from 'react';
-import { Form, RadioGroup, Button, Radio, RadioTile, RadioTileGroup } from 'rsuite';
+import { Form, RadioGroup, Button, Radio, RadioTile, RadioTileGroup } from 'cen-suite';
 import { Icon } from '@rsuite/icons';
 import {
   VscLock,

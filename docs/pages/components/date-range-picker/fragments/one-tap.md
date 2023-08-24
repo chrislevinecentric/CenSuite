@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { DateRangePicker } from 'rsuite';
+import { DateRangePicker } from 'cen-suite';
 import subDays from 'date-fns/subDays';
 
 const ranges = [

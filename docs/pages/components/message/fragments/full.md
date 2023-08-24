@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Message, Placeholder } from 'rsuite';
+import { Message, Placeholder } from 'cen-suite';
 
 const styles = {
   background: '#000',

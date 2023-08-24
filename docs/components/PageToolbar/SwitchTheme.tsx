@@ -1,5 +1,5 @@
 import React, { useContext } from 'react';
-import { CustomProviderProps, RadioGroup, Radio } from 'rsuite';
+import { CustomProviderProps, RadioGroup, Radio } from 'cen-suite';
 import { Icon } from '@rsuite/icons';
 import { Light, Dark, HighContrast } from '@/components/SvgIcons';
 import AppContext from '@/components/AppContext';

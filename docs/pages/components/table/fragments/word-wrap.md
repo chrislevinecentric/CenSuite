@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Table } from 'rsuite';
+import { Table } from 'cen-suite';
 
 const { Column, HeaderCell, Cell } = Table;
 const data = [

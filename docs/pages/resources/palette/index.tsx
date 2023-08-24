@@ -11,7 +11,7 @@ import {
   Input,
   Panel,
   Loader
-} from 'rsuite';
+} from 'cen-suite';
 import ColorPanel from '@/components/ColorPanel';
 import SketchPicker from '@/components/SketchPicker';
 import { readThemeName } from '@/utils/themeHelpers';

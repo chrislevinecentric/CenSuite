@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Stack, Button, Panel, RadioGroup, Radio } from 'rsuite';
+import { Stack, Button, Panel, RadioGroup, Radio } from 'cen-suite';
 
 const App = () => {
   const [direction, setDirection] = React.useState('row');

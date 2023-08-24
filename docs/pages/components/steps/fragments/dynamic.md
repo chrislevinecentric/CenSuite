@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Steps, Panel, Placeholder, ButtonGroup, Button } from 'rsuite';
+import { Steps, Panel, Placeholder, ButtonGroup, Button } from 'cen-suite';
 
 const App = () => {
   const [step, setStep] = React.useState(0);

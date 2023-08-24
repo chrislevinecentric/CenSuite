@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Timeline, Grid, Row, Col } from 'rsuite';
+import { Timeline, Grid, Row, Col } from 'cen-suite';
 
 const TimelineWithTime = ({ align }) => (
   <Timeline align={align}>

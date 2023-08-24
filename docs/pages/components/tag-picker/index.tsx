@@ -1,5 +1,5 @@
 import React from 'react';
-import { TagPicker, Button, Tag } from 'rsuite';
+import { TagPicker, Button, Tag } from 'cen-suite';
 import DefaultPage from '@/components/Page';
 import SpinnerIcon from '@rsuite/icons/legacy/Spinner';
 

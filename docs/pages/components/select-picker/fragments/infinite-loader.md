@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { SelectPicker, Loader } from 'rsuite';
+import { SelectPicker, Loader } from 'cen-suite';
 
 const fetchData = (start, length) => {
   return Array.from({ length }).map((_, index) => {

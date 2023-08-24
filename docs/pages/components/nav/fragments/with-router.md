@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Nav } from 'rsuite';
+import { Nav } from 'cen-suite';
 import Link from 'next/link';
 
 const NavLink = React.forwardRef((props, ref) => {

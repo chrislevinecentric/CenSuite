@@ -2,7 +2,7 @@ import React from 'react';
 import sortBy from 'lodash/sortBy';
 import kebabCase from 'lodash/kebabCase';
 import Link from '@/components/Link';
-import { List } from 'rsuite';
+import { List } from 'cen-suite';
 
 interface ItemType {
   category: string;

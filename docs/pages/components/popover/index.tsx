@@ -1,5 +1,5 @@
 import React from 'react';
-import { ButtonToolbar, Button, Whisper, Popover, Dropdown, Loader, Toggle } from 'rsuite';
+import { ButtonToolbar, Button, Whisper, Popover, Dropdown, Loader, Toggle } from 'cen-suite';
 import DefaultPage from '@/components/Page';
 
 export default function Page() {

@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Progress, ButtonGroup, Button, Row, Col } from 'rsuite';
+import { Progress, ButtonGroup, Button, Row, Col } from 'cen-suite';
 
 const App = () => {
   const [percent, setPercent] = React.useState(30);

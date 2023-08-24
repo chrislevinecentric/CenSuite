@@ -1,5 +1,5 @@
 ```js
-import { Container, Header, Content, Footer, Sidebar } from 'rsuite';
+import { Container, Header, Content, Footer, Sidebar } from 'cen-suite';
 
 // or
 import Container from 'rsuite/Container';

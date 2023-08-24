@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Button, ButtonToolbar, ButtonGroup, IconButton } from 'rsuite';
+import { Button, ButtonToolbar, ButtonGroup, IconButton } from 'cen-suite';
 import FileTextIcon from '@rsuite/icons/legacy/FileText';
 import SaveIcon from '@rsuite/icons/legacy/Save';
 import BoldIcon from '@rsuite/icons/legacy/Bold';

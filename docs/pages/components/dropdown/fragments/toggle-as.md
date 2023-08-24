@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Dropdown, ButtonToolbar } from 'rsuite';
+import { Dropdown, ButtonToolbar } from 'cen-suite';
 
 const SizeDropdown = props => (
   <Dropdown appearance="default" {...props}>

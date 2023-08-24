@@ -1,5 +1,5 @@
 import React from 'react';
-import { TreePicker, Button } from 'rsuite';
+import { TreePicker, Button } from 'cen-suite';
 import DefaultPage from '@/components/Page';
 import SpinnerIcon from '@rsuite/icons/legacy/Spinner';
 import PeoplesIcon from '@rsuite/icons/Peoples';

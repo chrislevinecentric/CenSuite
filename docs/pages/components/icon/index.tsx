@@ -1,6 +1,6 @@
 import React from 'react';
 import DefaultPage from '@/components/Page';
-import { IconButton } from 'rsuite';
+import { IconButton } from 'cen-suite';
 import { Icon, createIconFont } from '@rsuite/icons';
 import GearIcon from '@rsuite/icons/Gear';
 import SpinnerIcon from '@rsuite/icons/legacy/Spinner';

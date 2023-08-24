@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Drawer, RadioGroup, Radio, ButtonToolbar, Button, IconButton, Placeholder } from 'rsuite';
+import { Drawer, RadioGroup, Radio, ButtonToolbar, Button, IconButton, Placeholder } from 'cen-suite';
 import AngleRightIcon from '@rsuite/icons/legacy/AngleRight';
 import AngleLeftIcon from '@rsuite/icons/legacy/AngleLeft';
 import AngleDownIcon from '@rsuite/icons/legacy/AngleDown';

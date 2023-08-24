@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Button, ButtonToolbar, ButtonGroup, IconButton } from 'rsuite';
+import { Button, ButtonToolbar, ButtonGroup, IconButton } from 'cen-suite';
 import StarIcon from '@rsuite/icons/legacy/Star';
 
 const App = () => (

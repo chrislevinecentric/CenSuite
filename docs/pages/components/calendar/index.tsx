@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { Calendar, Button, Tag, Popover, Whisper, Badge } from 'rsuite';
+import { Calendar, Button, Tag, Popover, Whisper, Badge } from 'cen-suite';
 import DefaultPage from '@/components/Page';
 import files from './files';
 

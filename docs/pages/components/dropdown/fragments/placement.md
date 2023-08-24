@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Dropdown } from 'rsuite';
+import { Dropdown } from 'cen-suite';
 
 const items = [
   <Dropdown.Item key={1}>New File</Dropdown.Item>,

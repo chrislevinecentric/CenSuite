@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { SelectPicker } from 'rsuite';
+import { SelectPicker } from 'cen-suite';
 
 const data = Array.from({ length: 10000 }).map((_, index) => {
   return {

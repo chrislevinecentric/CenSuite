@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { CheckPicker, RadioGroup, Radio } from 'rsuite';
+import { CheckPicker, RadioGroup, Radio } from 'cen-suite';
 
 const data = ['Eugenia', 'Bryan', 'Linda', 'Nancy', 'Lloyd', 'Alice', 'Julia', 'Albert'].map(
   item => ({ label: item, value: item })

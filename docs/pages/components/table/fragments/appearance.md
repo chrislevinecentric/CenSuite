@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Table, Toggle, TagPicker } from 'rsuite';
+import { Table, Toggle, TagPicker } from 'cen-suite';
 import { mockUsers } from './mock';
 
 const { Column, HeaderCell, Cell } = Table;

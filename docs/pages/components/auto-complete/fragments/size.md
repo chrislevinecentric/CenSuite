@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { AutoComplete, Stack } from 'rsuite';
+import { AutoComplete, Stack } from 'cen-suite';
 
 const data = [
   'Eugenia',

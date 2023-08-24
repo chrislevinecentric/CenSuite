@@ -1,5 +1,5 @@
 import React from 'react';
-import { Steps, ButtonGroup, Button, Panel, Placeholder } from 'rsuite';
+import { Steps, ButtonGroup, Button, Panel, Placeholder } from 'cen-suite';
 import DefaultPage from '@/components/Page';
 import PencilSquareIcon from '@rsuite/icons/legacy/PencilSquare';
 import BookIcon from '@rsuite/icons/legacy/Book';

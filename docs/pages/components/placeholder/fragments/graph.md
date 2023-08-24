@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Placeholder } from 'rsuite';
+import { Placeholder } from 'cen-suite';
 
 const App = () => (
   <>

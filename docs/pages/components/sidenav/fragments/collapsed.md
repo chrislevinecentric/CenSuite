@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Sidenav, Nav, Toggle } from 'rsuite';
+import { Sidenav, Nav, Toggle } from 'cen-suite';
 import DashboardIcon from '@rsuite/icons/legacy/Dashboard';
 import GroupIcon from '@rsuite/icons/legacy/Group';
 import MagicIcon from '@rsuite/icons/legacy/Magic';

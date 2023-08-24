@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Form, Input, ButtonToolbar, Button } from 'rsuite';
+import { Form, Input, ButtonToolbar, Button } from 'cen-suite';
 
 const Textarea = React.forwardRef((props, ref) => <Input {...props} as="textarea" ref={ref} />);
 

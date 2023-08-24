@@ -1,5 +1,5 @@
 import React from 'react';
-import { CheckTreePicker, Button, Toggle, Checkbox } from 'rsuite';
+import { CheckTreePicker, Button, Toggle, Checkbox } from 'cen-suite';
 import SpinnerIcon from '@rsuite/icons/legacy/Spinner';
 import PeoplesIcon from '@rsuite/icons/Peoples';
 import AdminIcon from '@rsuite/icons/Admin';

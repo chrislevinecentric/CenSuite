@@ -1,5 +1,5 @@
 import React from 'react';
-import { CheckTree, Toggle } from 'rsuite';
+import { CheckTree, Toggle } from 'cen-suite';
 import DefaultPage from '@/components/Page';
 import PageIcon from '@rsuite/icons/Page';
 import FolderFillIcon from '@rsuite/icons/FolderFill';

@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Carousel, RadioGroup, Radio, Divider } from 'rsuite';
+import { Carousel, RadioGroup, Radio, Divider } from 'cen-suite';
 
 const styles = {
   radioGroupLabel: {

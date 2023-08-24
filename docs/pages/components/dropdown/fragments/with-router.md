@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Dropdown } from 'rsuite';
+import { Dropdown } from 'cen-suite';
 import Link from 'next/link';
 
 const MyLink = React.forwardRef((props, ref) => {

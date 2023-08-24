@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Badge } from 'rsuite';
+import { Badge } from 'cen-suite';
 
 const App = () => (
   <>

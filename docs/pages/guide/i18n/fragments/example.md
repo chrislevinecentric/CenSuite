@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { CustomProvider, SelectPicker, DatePicker, Calendar, Pagination } from 'rsuite';
+import { CustomProvider, SelectPicker, DatePicker, Calendar, Pagination } from 'cen-suite';
 import * as locales from 'rsuite/locales';
 
 const data = Object.keys(locales).map(key => ({

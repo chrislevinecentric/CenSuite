@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Tooltip, Whisper, Button, ButtonToolbar } from 'rsuite';
+import { Tooltip, Whisper, Button, ButtonToolbar } from 'cen-suite';
 
 const tooltip = (
   <Tooltip>

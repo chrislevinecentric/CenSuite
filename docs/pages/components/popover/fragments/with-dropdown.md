@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Popover, Whisper, Button, Dropdown } from 'rsuite';
+import { Popover, Whisper, Button, Dropdown } from 'cen-suite';
 
 const MenuPopover = React.forwardRef(({ onSelect, ...rest }, ref) => (
   <Popover ref={ref} {...rest} full>

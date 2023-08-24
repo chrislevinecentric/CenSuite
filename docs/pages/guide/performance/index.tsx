@@ -1,6 +1,6 @@
 import React from 'react';
 import DefaultPage from '@/components/Page';
-import { Table, SelectPicker, CheckPicker, Loader } from 'rsuite';
+import { Table, SelectPicker, CheckPicker, Loader } from 'cen-suite';
 import { faker } from '@faker-js/faker/locale/en';
 import { importFakerString, mockUsers, mockUsersString, sandboxFakerVersion } from '@/utils/mock';
 

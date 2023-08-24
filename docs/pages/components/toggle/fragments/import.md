@@ -1,5 +1,5 @@
 ```js
-import { Toggle } from 'rsuite';
+import { Toggle } from 'cen-suite';
 
 // or
 import Toggle from 'rsuite/Toggle';

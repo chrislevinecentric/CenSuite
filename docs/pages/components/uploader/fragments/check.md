@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Uploader, Button } from 'rsuite';
+import { Uploader, Button } from 'cen-suite';
 
 const App = () => {
   const [loading, setLoading] = React.useState(false);

@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Button, ButtonGroup } from 'rsuite';
+import { Button, ButtonGroup } from 'cen-suite';
 
 const CustomButtonGroup = ({ appearance }) => (
   <ButtonGroup style={{ marginTop: 12 }} justified>

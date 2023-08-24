@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Popover, Whisper, Button, Toggle } from 'rsuite';
+import { Popover, Whisper, Button, Toggle } from 'cen-suite';
 
 const DefaultPopover = React.forwardRef(({ content, ...props }, ref) => {
   return (

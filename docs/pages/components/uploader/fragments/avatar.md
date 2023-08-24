@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Uploader, Message, Loader, useToaster } from 'rsuite';
+import { Uploader, Message, Loader, useToaster } from 'cen-suite';
 import AvatarIcon from '@rsuite/icons/legacy/Avatar';
 
 function previewFile(file, callback) {

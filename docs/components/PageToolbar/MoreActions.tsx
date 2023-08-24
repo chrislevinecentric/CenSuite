@@ -1,5 +1,5 @@
 import React, { useContext } from 'react';
-import { Whisper, Popover, Dropdown, IconButton, Toggle } from 'rsuite';
+import { Whisper, Popover, Dropdown, IconButton, Toggle } from 'cen-suite';
 import canUseDOM from 'dom-lib/canUseDOM';
 import AppContext from '../AppContext';
 import Bug from '@rsuite/icons/legacy/Bug';

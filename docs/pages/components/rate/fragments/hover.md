@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Rate } from 'rsuite';
+import { Rate } from 'cen-suite';
 
 const textStyle = {
   verticalAlign: 'top',

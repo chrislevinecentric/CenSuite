@@ -21,7 +21,7 @@ import {
   Rate,
   Uploader,
   Panel
-} from 'rsuite';
+} from 'cen-suite';
 
 import { mockTreeData } from './mock';
 

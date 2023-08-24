@@ -22,7 +22,7 @@ Then edit the `./pages/index.js` file and change it to:
 ```js
 import React from 'react';
 import Head from 'next/head';
-import { Button } from 'rsuite';
+import { Button } from 'cen-suite';
 
 const Home = () => (
   <div>
@@ -67,7 +67,7 @@ There are some navigation components in the rsuite component, such as `Dropdown`
 
 ```jsx
 import Link from 'next/link';
-import { Nav } from 'rsuite';
+import { Nav } from 'cen-suite';
 
 const NavLink = React.forwardRef((props, ref) => {
   const { as, href, ...rest } = props;

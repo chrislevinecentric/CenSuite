@@ -5,7 +5,7 @@ import ResponsiveNav from '@rsuite/responsive-nav';
 <!--start-code-->
 
 ```js
-import { Slider } from 'rsuite';
+import { Slider } from 'cen-suite';
 import ResponsiveNav from '@rsuite/responsive-nav';
 
 const items = [

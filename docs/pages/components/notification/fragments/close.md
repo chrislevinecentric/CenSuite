@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Notification, Placeholder } from 'rsuite';
+import { Notification, Placeholder } from 'cen-suite';
 
 const App = () => (
   <>

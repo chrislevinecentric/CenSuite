@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Checkbox, CheckboxGroup } from 'rsuite';
+import { Checkbox, CheckboxGroup } from 'cen-suite';
 
 const App = () => (
   <CheckboxGroup inline name="checkboxList">

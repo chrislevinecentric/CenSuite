@@ -1,7 +1,7 @@
 <!-- start-code -->
 
 ```js
-import { Slider, RangeSlider, Row, Col, InputGroup, InputNumber } from 'rsuite';
+import { Slider, RangeSlider, Row, Col, InputGroup, InputNumber } from 'cen-suite';
 
 function Example1() {
   const [value, setValue] = React.useState(0);

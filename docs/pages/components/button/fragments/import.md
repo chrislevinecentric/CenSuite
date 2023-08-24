@@ -1,5 +1,5 @@
 ```js
-import { Button, IconButton, ButtonGroup, ButtonToolbar } from 'rsuite';
+import { Button, IconButton, ButtonGroup, ButtonToolbar } from 'cen-suite';
 
 // or
 import Button from 'rsuite/Button';

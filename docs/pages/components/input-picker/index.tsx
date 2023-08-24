@@ -1,5 +1,5 @@
 import React from 'react';
-import { InputPicker, Button } from 'rsuite';
+import { InputPicker, Button } from 'cen-suite';
 import SpinnerIcon from '@rsuite/icons/legacy/Spinner';
 import DefaultPage from '@/components/Page';
 

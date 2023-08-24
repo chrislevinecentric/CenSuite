@@ -111,6 +111,7 @@ function App() {
 | ----------- | ---------------------------------------------------- | -------------------------------------------------------------- |
 | active      | boolean                                              | A button can show it is currently the active user selection    |
 | appearance  | [Appearance](#code-ts-appearance-code) `('default')` | A button can have different appearances                        |
+| rounded     | boolean                                              | Applies rounding effect                                        |
 | as          | ElementType `('button')`                             | You can use a custom element for this component                |
 | block       | boolean                                              | Spans the full width of the Button parent                      |
 | children \* | ReactNode                                            | Primary content                                                |

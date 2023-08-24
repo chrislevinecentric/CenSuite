@@ -7,7 +7,7 @@ We recommend using [`schema-typed`](https://github.com/rsuite/schema-typed) to m
 **Step 1**: Import `Form` and `Schema`.
 
 ```jsx
-import { Form, Schema } from 'rsuite';
+import { Form, Schema } from 'cen-suite';
 ```
 
 **Step 2**: Use Schema to define the data model.

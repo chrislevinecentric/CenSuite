@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Loader } from 'rsuite';
+import { Loader } from 'cen-suite';
 
 const App = () => (
   <div style={{ height: 200, background: '#000' }}>

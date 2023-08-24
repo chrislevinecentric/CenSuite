@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Affix, Button, Placeholder } from 'rsuite';
+import { Affix, Button, Placeholder } from 'cen-suite';
 
 const App = () => (
   <>

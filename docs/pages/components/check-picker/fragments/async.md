@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { CheckPicker } from 'rsuite';
+import { CheckPicker } from 'cen-suite';
 import SpinnerIcon from '@rsuite/icons/legacy/Spinner';
 
 const data = ['Eugenia', 'Bryan', 'Linda', 'Nancy', 'Lloyd', 'Alice', 'Julia', 'Albert'].map(

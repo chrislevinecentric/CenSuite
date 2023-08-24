@@ -1,5 +1,5 @@
 ```js
-import { Breadcrumb } from 'rsuite';
+import { Breadcrumb } from 'cen-suite';
 
 //or
 import Breadcrumb from 'rsuite/Breadcrumb';

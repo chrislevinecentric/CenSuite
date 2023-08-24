@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Input, Whisper, Tooltip } from 'rsuite';
+import { Input, Whisper, Tooltip } from 'cen-suite';
 
 const App = () => (
   <Whisper trigger="focus" speaker={<Tooltip>Required</Tooltip>}>

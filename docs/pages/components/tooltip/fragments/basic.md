@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Tooltip } from 'rsuite';
+import { Tooltip } from 'cen-suite';
 
 const App = () => (
   <div style={{ height: 20 }}>

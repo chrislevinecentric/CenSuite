@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Modal, ButtonToolbar, Button } from 'rsuite';
+import { Modal, ButtonToolbar, Button } from 'cen-suite';
 import RemindIcon from '@rsuite/icons/legacy/Remind';
 
 const App = () => {

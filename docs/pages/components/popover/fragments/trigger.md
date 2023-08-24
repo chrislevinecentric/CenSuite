@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Popover, Whisper, Button, ButtonToolbar } from 'rsuite';
+import { Popover, Whisper, Button, ButtonToolbar } from 'cen-suite';
 
 const speaker = (
   <Popover title="Title">

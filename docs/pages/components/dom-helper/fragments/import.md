@@ -1,5 +1,5 @@
 ```js
-import { DOMHelper } from 'rsuite';
+import { DOMHelper } from 'cen-suite';
 
 // or
 import DOMHelper from 'rsuite/DOMHelper';

@@ -1,5 +1,5 @@
 import React from 'react';
-import { Tag, TagGroup, IconButton, Input } from 'rsuite';
+import { Tag, TagGroup, IconButton, Input } from 'cen-suite';
 import DefaultPage from '@/components/Page';
 import PlusIcon from '@rsuite/icons/Plus';
 import files from './files';

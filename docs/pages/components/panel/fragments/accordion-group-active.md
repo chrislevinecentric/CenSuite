@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Panel, PanelGroup, Placeholder } from 'rsuite';
+import { Panel, PanelGroup, Placeholder } from 'cen-suite';
 
 const App = () => (
   <PanelGroup accordion defaultActiveKey={1} bordered>

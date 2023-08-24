@@ -1,5 +1,5 @@
 ```js
-import { Panel, PanelGroup } from 'rsuite';
+import { Panel, PanelGroup } from 'cen-suite';
 
 // or
 import Panel from 'rsuite/Panel';

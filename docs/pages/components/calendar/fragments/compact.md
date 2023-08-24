@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Calendar, Badge } from 'rsuite';
+import { Calendar, Badge } from 'cen-suite';
 
 function getTodoList(date) {
   const day = date.getDate();

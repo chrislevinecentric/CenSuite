@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Uploader } from 'rsuite';
+import { Uploader } from 'cen-suite';
 import CameraRetroIcon from '@rsuite/icons/legacy/CameraRetro';
 
 const App = () => (

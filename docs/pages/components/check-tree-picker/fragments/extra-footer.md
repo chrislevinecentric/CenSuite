@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { CheckTreePicker, Checkbox } from 'rsuite';
+import { CheckTreePicker, Checkbox } from 'cen-suite';
 import { mockTreeData } from './mock';
 
 const data = mockTreeData({

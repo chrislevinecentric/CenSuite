@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { DateRangePicker } from 'rsuite';
+import { DateRangePicker } from 'cen-suite';
 import isAfter from 'date-fns/isAfter';
 
 const { allowedMaxDays, allowedDays, allowedRange, beforeToday, afterToday, combine } =

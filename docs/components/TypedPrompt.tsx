@@ -1,5 +1,5 @@
 import React, { useCallback, useEffect, useState } from 'react';
-import { Modal } from 'rsuite';
+import { Modal } from 'cen-suite';
 import onEvent from 'dom-lib/on';
 import canUseDOM from 'dom-lib/canUseDOM';
 

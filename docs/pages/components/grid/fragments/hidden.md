@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Grid, Row, Col } from 'rsuite';
+import { Grid, Row, Col } from 'cen-suite';
 
 const App = () => (
   <Grid fluid>

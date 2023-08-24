@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Table, Tag } from 'rsuite';
+import { Table, Tag } from 'cen-suite';
 import CollaspedOutlineIcon from '@rsuite/icons/CollaspedOutline';
 import ExpandOutlineIcon from '@rsuite/icons/ExpandOutline';
 import { mockUsers } from './mock';

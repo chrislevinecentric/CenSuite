@@ -1,5 +1,5 @@
 import React from 'react';
-import { Placeholder } from 'rsuite';
+import { Placeholder } from 'cen-suite';
 
 interface ParagraphProps {
   rows: number;

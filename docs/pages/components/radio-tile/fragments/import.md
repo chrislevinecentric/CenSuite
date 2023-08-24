@@ -1,5 +1,5 @@
 ```js
-import { RadioTile, RadioTileGroup } from 'rsuite';
+import { RadioTile, RadioTileGroup } from 'cen-suite';
 
 //or
 import RadioTile from 'rsuite/RadioTile';

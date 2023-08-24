@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { MultiCascader } from 'rsuite';
+import { MultiCascader } from 'cen-suite';
 import PeoplesIcon from '@rsuite/icons/Peoples';
 import AdminIcon from '@rsuite/icons/Admin';
 import { mockTreeData } from './mock';

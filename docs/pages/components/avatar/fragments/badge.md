@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { AvatarGroup, Badge, Avatar } from 'rsuite';
+import { AvatarGroup, Badge, Avatar } from 'cen-suite';
 
 const App = () => (
   <AvatarGroup>

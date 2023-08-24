@@ -289,7 +289,7 @@ npm i @rsuite/icons
 
 ```js
 // for rsuite v4
-import { Icon } from 'rsuite';
+import { Icon } from 'cen-suite';
 
 return <Icon icon="gear" />;
 
@@ -323,7 +323,7 @@ The rsuite v4 icons can be found inside `@rsuite/icons/legacy`.
 
 ```js
 // rsuite v4
-import { Icon } from 'rsuite';
+import { Icon } from 'cen-suite';
 
 return <Icon icon="arrow-down" />;
 
@@ -500,7 +500,7 @@ return (
 
 ```js
 // for rsuite v4
-import { IntlProvider } from 'rsuite';
+import { IntlProvider } from 'cen-suite';
 import zhCN from 'rsuite/lib/IntlProvider/locales/zh_CN';
 
 return (
@@ -510,7 +510,7 @@ return (
 );
 
 // for rsuite v5
-import { CustomProvider } from 'rsuite';
+import { CustomProvider } from 'cen-suite';
 import zhCN from 'rsuite/locales/zh_CN';
 
 return (

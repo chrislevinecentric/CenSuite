@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { IconButton, ButtonToolbar, ButtonGroup } from 'rsuite';
+import { IconButton, ButtonToolbar, ButtonGroup } from 'cen-suite';
 
 import AlignLeftIcon from '@rsuite/icons/legacy/AlignLeft';
 import AlignCenterIcon from '@rsuite/icons/legacy/AlignCenter';

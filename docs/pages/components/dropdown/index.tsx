@@ -1,5 +1,5 @@
 import React from 'react';
-import { Dropdown, Button, ButtonToolbar, IconButton, ButtonGroup, Popover, Whisper } from 'rsuite';
+import { Dropdown, Button, ButtonToolbar, IconButton, ButtonGroup, Popover, Whisper } from 'cen-suite';
 import Link from 'next/link';
 import DefaultPage from '@/components/Page';
 

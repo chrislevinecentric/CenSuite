@@ -1,5 +1,5 @@
 import canUseDOM from 'dom-lib/canUseDOM';
-import { CustomProviderProps } from 'rsuite';
+import { CustomProviderProps } from 'cen-suite';
 
 export type ThemeType = CustomProviderProps['theme'];
 export type DirectionType = 'rtl' | 'ltr';

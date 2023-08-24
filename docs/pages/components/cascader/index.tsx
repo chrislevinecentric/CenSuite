@@ -1,5 +1,5 @@
 import React from 'react';
-import { Cascader, Button, RadioGroup, Radio } from 'rsuite';
+import { Cascader, Button, RadioGroup, Radio } from 'cen-suite';
 import DefaultPage from '@/components/Page';
 import AdminIcon from '@rsuite/icons/Admin';
 import FolderFillIcon from '@rsuite/icons/FolderFill';

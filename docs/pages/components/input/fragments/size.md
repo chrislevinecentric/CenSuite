@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Input, InputGroup, Grid, Row, Col } from 'rsuite';
+import { Input, InputGroup, Grid, Row, Col } from 'cen-suite';
 import SearchIcon from '@rsuite/icons/Search';
 
 const styles = {

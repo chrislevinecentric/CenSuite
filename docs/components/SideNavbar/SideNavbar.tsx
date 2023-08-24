@@ -1,7 +1,7 @@
 import React from 'react';
 import classnames from 'classnames';
 import { useRouter } from 'next/router';
-import { Sidebar, Nav, IconButton, Badge } from 'rsuite';
+import { Sidebar, Nav, IconButton, Badge } from 'cen-suite';
 import Link from '@/components/Link';
 import AppContext from '../AppContext';
 import usePages from '@/utils/usePages';

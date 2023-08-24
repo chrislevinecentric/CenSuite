@@ -1,5 +1,5 @@
 import React from 'react';
-import { TagInput } from 'rsuite';
+import { TagInput } from 'cen-suite';
 import DefaultPage from '@/components/Page';
 
 export default function Page() {

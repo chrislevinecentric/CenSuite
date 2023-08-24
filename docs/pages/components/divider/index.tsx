@@ -1,5 +1,5 @@
 import React from 'react';
-import { Divider, Button, ButtonGroup, Placeholder } from 'rsuite';
+import { Divider, Button, ButtonGroup, Placeholder } from 'cen-suite';
 
 import DefaultPage from '@/components/Page';
 

@@ -1,5 +1,5 @@
 ```js
-import { Dropdown } from 'rsuite';
+import { Dropdown } from 'cen-suite';
 
 // or
 import Dropdown from 'rsuite/Dropdown';

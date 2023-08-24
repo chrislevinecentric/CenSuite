@@ -1,5 +1,5 @@
 ```js
-import { Loader } from 'rsuite';
+import { Loader } from 'cen-suite';
 
 //or
 import Loader from 'rsuite/Loader';

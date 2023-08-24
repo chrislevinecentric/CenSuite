@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Timeline } from 'rsuite';
+import { Timeline } from 'cen-suite';
 import CreditCardIcon from '@rsuite/icons/legacy/CreditCard';
 import PlaneIcon from '@rsuite/icons/legacy/Plane';
 import TruckIcon from '@rsuite/icons/legacy/Truck';

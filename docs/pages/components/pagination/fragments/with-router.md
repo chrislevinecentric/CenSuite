@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Pagination } from 'rsuite';
+import { Pagination } from 'cen-suite';
 import Link from 'next/link';
 
 const NavLink = React.forwardRef((props, ref) => {

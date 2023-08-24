@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { DatePicker, Stack } from 'rsuite';
+import { DatePicker, Stack } from 'cen-suite';
 
 const App = () => (
   <Stack direction="column" alignItems="flex-start" spacing={6}>

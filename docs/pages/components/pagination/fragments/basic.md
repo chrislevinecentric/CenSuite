@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Pagination } from 'rsuite';
+import { Pagination } from 'cen-suite';
 
 const App = () => {
   const [activePage, setActivePage] = React.useState(1);

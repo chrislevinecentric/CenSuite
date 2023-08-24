@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { AutoComplete, InputGroup } from 'rsuite';
+import { AutoComplete, InputGroup } from 'cen-suite';
 import SearchIcon from '@rsuite/icons/Search';
 import MemberIcon from '@rsuite/icons/Member';
 

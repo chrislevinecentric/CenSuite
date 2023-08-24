@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { RadioTile, RadioTileGroup } from 'rsuite';
+import { RadioTile, RadioTileGroup } from 'cen-suite';
 import { Icon } from '@rsuite/icons';
 import { VscNotebookTemplate, VscRepoClone, VscFile } from 'react-icons/vsc';
 

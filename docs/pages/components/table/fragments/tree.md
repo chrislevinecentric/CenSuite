@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Table } from 'rsuite';
+import { Table } from 'cen-suite';
 import { faker } from '@faker-js/faker';
 import SpinnerIcon from '@rsuite/icons/legacy/Spinner';
 import { mockTreeData } from './mock';

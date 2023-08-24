@@ -1,6 +1,6 @@
 import React, { useMemo } from 'react';
 import Color from 'color';
-import { Popover, Whisper } from 'rsuite';
+import { Popover, Whisper } from 'cen-suite';
 import Question2 from '@rsuite/icons/legacy/Question2';
 import getPalette from '@/utils/getPalette';
 

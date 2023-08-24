@@ -23,7 +23,7 @@ $ yarn add rsuite
 The following is a simple example of using a default button component.
 
 ```jsx
-import { Button } from 'rsuite';
+import { Button } from 'cen-suite';
 import 'rsuite/dist/rsuite.min.css';
 
 function App() {

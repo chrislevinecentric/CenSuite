@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Pagination, Toggle, SelectPicker, TagPicker, InputNumber } from 'rsuite';
+import { Pagination, Toggle, SelectPicker, TagPicker, InputNumber } from 'cen-suite';
 
 const Switch = ({ label, checked, onChange }) => {
   return (

@@ -1,5 +1,5 @@
 ```js
-import { Radio, RadioGroup } from 'rsuite';
+import { Radio, RadioGroup } from 'cen-suite';
 
 //or
 import Radio from 'rsuite/Radio';

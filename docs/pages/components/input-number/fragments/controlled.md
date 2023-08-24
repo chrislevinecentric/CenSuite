@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { InputNumber } from 'rsuite';
+import { InputNumber } from 'cen-suite';
 
 const App = () => {
   const [value, setValue] = React.useState(0.01);

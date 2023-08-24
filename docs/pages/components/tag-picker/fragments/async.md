@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { TagPicker } from 'rsuite';
+import { TagPicker } from 'cen-suite';
 import SpinnerIcon from '@rsuite/icons/legacy/Spinner';
 
 const useUsers = (defaultUsers = []) => {

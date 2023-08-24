@@ -8,7 +8,7 @@ import {
   Panel,
   Popover,
   Dropdown
-} from 'rsuite';
+} from 'cen-suite';
 import DefaultPage from '@/components/Page';
 import * as SvgIcons from '@/components/SvgIcons';
 import { Icon } from '@rsuite/icons';

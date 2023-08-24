@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { ButtonGroup, Button, Whisper, Popover, Dropdown, IconButton } from 'rsuite';
+import { ButtonGroup, Button, Whisper, Popover, Dropdown, IconButton } from 'cen-suite';
 import ArrowDownIcon from '@rsuite/icons/ArrowDown';
 
 const options = ['Create a merge commit', 'Squash and merge', 'Rebase and merge'];

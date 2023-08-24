@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { TreePicker } from 'rsuite';
+import { TreePicker } from 'cen-suite';
 import SpinnerIcon from '@rsuite/icons/legacy/Spinner';
 import FolderFillIcon from '@rsuite/icons/FolderFill';
 import PageIcon from '@rsuite/icons/Page';

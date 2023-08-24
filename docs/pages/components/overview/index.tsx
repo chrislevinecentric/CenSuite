@@ -2,7 +2,7 @@ import React from 'react';
 import usePages from '@/utils/usePages';
 import DefaultPage from '@/components/Page';
 import AppContext from '@/components/AppContext';
-import { ButtonGroup, IconButton, Input, InputGroup } from 'rsuite';
+import { ButtonGroup, IconButton, Input, InputGroup } from 'cen-suite';
 import CategorizedList from '@/components/CategorizedList';
 import SortedList from '@/components/SortedList';
 

@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { InputPicker } from 'rsuite';
+import { InputPicker } from 'cen-suite';
 
 const data = ['Eugenia', 'Bryan', 'Linda', 'Nancy', 'Lloyd', 'Alice', 'Julia', 'Albert'].map(
   item => ({

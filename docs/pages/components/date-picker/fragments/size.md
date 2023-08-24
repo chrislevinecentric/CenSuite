@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { DatePicker } from 'rsuite';
+import { DatePicker } from 'cen-suite';
 
 const styles = { width: 200, display: 'block', marginBottom: 10 };
 const App = () => (

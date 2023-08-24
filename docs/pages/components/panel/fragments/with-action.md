@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Panel, Placeholder, Stack, ButtonGroup, Button } from 'rsuite';
+import { Panel, Placeholder, Stack, ButtonGroup, Button } from 'cen-suite';
 
 const App = () => (
   <Panel

@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Form, Button, Schema, Panel, Message, toaster, FlexboxGrid } from 'rsuite';
+import { Form, Button, Schema, Panel, Message, toaster, FlexboxGrid } from 'cen-suite';
 import JSONTree from 'react-json-tree';
 import Select from 'react-select';
 

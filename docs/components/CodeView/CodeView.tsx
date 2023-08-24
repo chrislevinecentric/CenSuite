@@ -1,5 +1,5 @@
 import React, { useCallback, useMemo } from 'react';
-import { Divider, IconButton, Tooltip, Whisper, Placeholder } from 'rsuite';
+import { Divider, IconButton, Tooltip, Whisper, Placeholder } from 'cen-suite';
 import canUseDOM from 'dom-lib/canUseDOM';
 import toggleClass from 'dom-lib/toggleClass';
 import GithubIcon from '@rsuite/icons/legacy/Github';

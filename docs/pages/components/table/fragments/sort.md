@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Table } from 'rsuite';
+import { Table } from 'cen-suite';
 import { mockUsers } from './mock';
 
 const { Column, HeaderCell, Cell } = Table;

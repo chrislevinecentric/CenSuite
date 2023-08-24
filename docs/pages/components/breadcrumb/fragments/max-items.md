@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Breadcrumb } from 'rsuite';
+import { Breadcrumb } from 'cen-suite';
 
 const App = () => (
   <Breadcrumb

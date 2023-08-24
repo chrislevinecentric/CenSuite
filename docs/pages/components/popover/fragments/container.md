@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Popover, Whisper, Button } from 'rsuite';
+import { Popover, Whisper, Button } from 'cen-suite';
 
 function PreventOverflowContainer({ children, height = 500 }) {
   const container = React.useRef();

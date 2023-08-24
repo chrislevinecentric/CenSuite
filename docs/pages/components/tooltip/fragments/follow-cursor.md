@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Tooltip, Whisper, Button } from 'rsuite';
+import { Tooltip, Whisper, Button } from 'cen-suite';
 
 const App = () => (
   <Whisper followCursor speaker={<Tooltip>This is a Tooltip that follow cursor</Tooltip>}>

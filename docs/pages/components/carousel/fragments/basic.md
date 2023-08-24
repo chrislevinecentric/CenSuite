@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Carousel } from 'rsuite';
+import { Carousel } from 'cen-suite';
 const App = () => (
   <Carousel className="custom-slider">
     <img src="https://via.placeholder.com/600x250/8f8e94/FFFFFF?text=1" height="250" />

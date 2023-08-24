@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Steps } from 'rsuite';
+import { Steps } from 'cen-suite';
 import PencilSquareIcon from '@rsuite/icons/legacy/PencilSquare';
 import BookIcon from '@rsuite/icons/legacy/Book';
 import WechatIcon from '@rsuite/icons/Wechat';

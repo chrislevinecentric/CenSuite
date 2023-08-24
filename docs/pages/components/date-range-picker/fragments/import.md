@@ -1,5 +1,5 @@
 ```js
-import { DateRangePicker } from 'rsuite';
+import { DateRangePicker } from 'cen-suite';
 
 // or
 import DateRangePicker from 'rsuite/DateRangePicker';

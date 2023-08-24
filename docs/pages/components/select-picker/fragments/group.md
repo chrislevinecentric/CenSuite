@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { SelectPicker } from 'rsuite';
+import { SelectPicker } from 'cen-suite';
 
 const data = ['Eugenia', 'Bryan', 'Linda', 'Nancy', 'Lloyd', 'Alice', 'Julia', 'Albert'].map(
   item => ({

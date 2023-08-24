@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { Panel, Placeholder } from 'rsuite';
+import { Panel, Placeholder } from 'cen-suite';
 
 const App = () => (
   <Panel header="Panel title" bordered>

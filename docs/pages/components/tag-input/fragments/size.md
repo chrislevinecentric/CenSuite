@@ -1,7 +1,7 @@
 <!--start-code-->
 
 ```js
-import { TagInput } from 'rsuite';
+import { TagInput } from 'cen-suite';
 
 const styles = { width: 300, display: 'block', marginBottom: 10 };
 

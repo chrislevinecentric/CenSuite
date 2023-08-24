@@ -1,5 +1,5 @@
 import React from 'react';
-import { DateRangePicker, Button, Divider, Stack } from 'rsuite';
+import { DateRangePicker, Button, Divider, Stack } from 'cen-suite';
 import DefaultPage from '@/components/Page';
 import startOfWeek from 'date-fns/startOfWeek';
 import endOfWeek from 'date-fns/endOfWeek';

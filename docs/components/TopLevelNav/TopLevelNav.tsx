@@ -1,6 +1,6 @@
 import React, { useCallback, useMemo } from 'react';
 import { createPortal } from 'react-dom';
-import { Whisper, WhisperInstance, Tooltip, Button, IconButton } from 'rsuite';
+import { Whisper, WhisperInstance, Tooltip, Button, IconButton } from 'cen-suite';
 import classNames from 'classnames';
 import { isMobile } from 'react-device-detect';
 import Logo from '../Logo';

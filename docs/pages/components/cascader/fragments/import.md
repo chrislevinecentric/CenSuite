@@ -1,5 +1,5 @@
 ```js
-import { Cascader } from 'rsuite';
+import { Cascader } from 'cen-suite';
 
 // or
 import Cascader from 'rsuite/Cascader';

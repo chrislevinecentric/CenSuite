@@ -1,5 +1,5 @@
 import React from 'react';
-import { Timeline, Grid, Row, Col } from 'rsuite';
+import { Timeline, Grid, Row, Col } from 'cen-suite';
 import DefaultPage from '@/components/Page';
 import CreditCardIcon from '@rsuite/icons/legacy/CreditCard';
 import PlaneIcon from '@rsuite/icons/legacy/Plane';
